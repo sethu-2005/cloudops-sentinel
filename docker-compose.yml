@@ -1,0 +1,8 @@
+services:
+  cloudops-sentinel:
+    build: .
+    container_name: cloudops-sentinel-compose
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+    
