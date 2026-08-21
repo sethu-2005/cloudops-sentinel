@@ -57,7 +57,7 @@ def health():
     return jsonify({
         "status": "healthy",
         "service": "cloudops-sentinel",
-        "version": "1.0"
+        "version": "1.1"
     })
 
 
