@@ -40,7 +40,7 @@ HTML = """
         <h1>CloudOps Sentinel</h1>
         <p>Automated DevSecOps Deployment Platform</p>
         <p class="status">● Application is Running</p>
-        <p>Version: 1.0</p>
+        <p>Version: 1.1</p>
         <p>Environment: Development</p>
     </div>
 </body>
