@@ -65,7 +65,7 @@ def health():
 def info():
     return jsonify({
         "application": "CloudOps Sentinel",
-        "version": "1.0",
+        "version": "1.1",
         "environment": "development",
         "status": "running"
     })
